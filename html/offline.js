@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1604628884,
+	"version": 1604779390,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,7 @@
 		"images/sprite-sheet0.png",
 		"images/fundoop1-sheet0.png",
 		"images/fundoop2-sheet0.png",
-		"images/selecionado-sheet0.png",
+		"images/botaogo-sheet0.png",
 		"images/ufabclogo-sheet0.png",
 		"images/ufabc-sheet0.png",
 		"images/imagemafasta-sheet0.png",
@@ -31,11 +31,20 @@
 		"images/erro1-sheet0.png",
 		"images/btnhome-sheet0.png",
 		"images/btnhomesombra-sheet0.png",
+		"images/hs-sheet0.png",
+		"images/fundopergunta-sheet0.png",
+		"images/fundopergunta2-sheet0.png",
+		"images/sombraop1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"arial-rounded-mt-demo.html",
+		"arial-rounded-mt-webfont.woff",
+		"arial-rounded-mt-webfont.woff2",
+		"generator_config.txt",
+		"stylesheet.css"
 	]
 }
