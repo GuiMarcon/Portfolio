@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605233897,
+	"version": 1605234651,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,7 +26,9 @@
 		"images/fundocampos-sheet0.png",
 		"images/fundocampos2-sheet0.png",
 		"images/btnmodulo1-sheet0.png",
+		"images/btnmodulo2-sheet0.png",
 		"images/btnsombra1-sheet0.png",
+		"images/btnlb2-sheet0.png",
 		"images/ok1-sheet0.png",
 		"images/erro1-sheet0.png",
 		"images/btnhome-sheet0.png",
