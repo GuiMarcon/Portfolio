@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1608500026,
+	"version": 1608504828,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,7 +39,6 @@
 		"images/fundopergunta-sheet0.png",
 		"images/fundopergunta2-sheet0.png",
 		"images/sombraop1-sheet0.png",
-		"images/livro-sheet0.png",
 		"images/fundofinal-sheet0.png",
 		"images/barradiv-sheet0.png",
 		"images/btnfinalvoltarsombra-sheet0.png",
