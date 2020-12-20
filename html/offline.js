@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1606954813,
+	"version": 1608500026,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,7 +43,8 @@
 		"images/fundofinal-sheet0.png",
 		"images/barradiv-sheet0.png",
 		"images/btnfinalvoltarsombra-sheet0.png",
-		"images/rererer-sheet0.png",
+		"images/000botaotexxxte-sheet0.png",
+		"images/btngoresultados-sheet0.png",
 		"media/bom.m4a",
 		"media/bom.ogg",
 		"media/ruim.m4a",
