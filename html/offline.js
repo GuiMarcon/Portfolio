@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1624583234,
+	"version": 1627865973,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,9 @@
 		"images/000botaotexxxte-sheet0.png",
 		"images/btngoresultados-sheet0.png",
 		"images/somperg-sheet0.png",
+		"images/loading-sheet0.png",
+		"images/loading-sheet1.png",
+		"images/fundopreto-sheet0.png",
 		"media/bom.m4a",
 		"media/bom.ogg",
 		"media/ruim.m4a",
